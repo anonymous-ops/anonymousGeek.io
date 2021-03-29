@@ -144,6 +144,17 @@ h6{
 .copyri{
     margin-top: 2rem;
 }
+.about{
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    align-content: center;
+    position: absolute;
+    top: 10rem;
+    right: 5rem;
+    z-index: 3;
+}
 .p4{
     visibility: hidden;
 }
@@ -245,5 +256,13 @@ h8{
     z-index: 1;
     margin-left: 1rem;
     margin-top: 12px;
+}
+.about{
+    font-size: 1rem;
+    width: 10rem;
+    height: 3rem;
+}
+.about h3{
+    color: blueviolet;
 }
 }
