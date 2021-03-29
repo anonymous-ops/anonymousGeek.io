@@ -261,11 +261,14 @@ h8{
     margin-top: 12px;
 }
 .about{
-    font-size: 1rem;
-    width: 10rem;
+      width: 18rem;
     height: 3rem;
+    position: absolute;
+    right: 4rem;
+    top: 15rem;
 }
 .about h3{
     color: blueviolet;
+    font-size: 1rem;
 }
 }
