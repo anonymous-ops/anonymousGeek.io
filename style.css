@@ -158,6 +158,9 @@ h6{
 .p4{
     visibility: hidden;
 }
+span{
+    color: red;
+}
 @media screen and (max-width: 500px){
   
    header{
